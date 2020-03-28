@@ -1,0 +1,17 @@
+10 : there
+16 : there are
+26 : there are many
+60 : there are many possibilities
+64 : there are many possibilities to
+79 : there are many possibilities to decode
+89 : there are many possibilities to decode these
+105 : there are many possibilities to decode these dashes
+112 : there are many possibilities to decode these dashes and
+122 : there are many possibilities to decode these dashes and dots
+130 : there are many possibilities to decode these dashes and dots wait
+136 : there are many possibilities to decode these dashes and dots wait time
+141 : there are many possibilities to decode these dashes and dots wait time is
+129 : there are many possibilities to decode these dashes and dots and
+126 : there are many possibilities to decode these dashes and dots an
+124 : there are many possibilities to decode these dashes and dots a
+131 : there are many possibilities to decode these dashes and dots a text
