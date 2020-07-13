@@ -30,6 +30,3 @@ or apply other Natural Language rules(?). Though haven't gone too deep into it.
 
 It is even possible I have a bad wordlist `\attempt\words.txt` since some of the words are either way obsoleted or non-existing,
 I did a search for a new wordlist file but have grown tired rather quickly. I think I'll close this challenge off.
-
-# Result #3: NO IMPROVEMENT, ESTIMATED, CLOSED
-
